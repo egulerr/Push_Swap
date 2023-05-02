@@ -28,5 +28,5 @@ To use the Push_Swap program, you need to follow these steps:
 The Push_Swap project is an excellent way to learn about sorting algorithms and data structures. By implementing this program, you will gain experience with stacks, queues, and linked lists. You will also learn about optimization techniques and how to minimize the number of operations required to solve a problem.
 
 <div align="center">
-  <img width=300 height=300 src="https://github.com/egulerr/Push_Swap/blob/main/push_swap.gif"/>
+  <img width=300px height=300px src="https://github.com/egulerr/Push_Swap/blob/main/push_swap.gif"/>
 </div>
