@@ -1,6 +1,8 @@
 # Push_Swap
 The Push_Swap project is a 42 school project that requires you to sort a stack of integers using two stacks and a set of operations. The goal is to sort the stack in as few operations as possible.
 
+I used radix sort algorithm in this exercise.
+
 ## How to Use
 To use the Push_Swap program, you need to follow these steps:
 + Download or clone the Push_Swap repository from GitHub.
